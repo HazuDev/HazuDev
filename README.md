@@ -1,5 +1,5 @@
 <h1 align="center">Hi, you can call me Hazu</h1>
-<h3 align="center">I am a high school student who wants to learn programming because he finds it fun</h3>
+<h3 align="center">I am a high school student who wants to learn programming because I find it fun</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hazudev&label=Profile%20views&color=0e75b6&style=flat" alt="hazudev" /> </p>
 
