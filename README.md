@@ -1,5 +1,6 @@
 <h1 align="center">🍓 Welcome to my profile 🍓</h1>
 <h3 align="center">I am a high school student who wants to learn programming because I find it fun</h3>
+<img align="right" alt="Touhou is cool" width="400" src="https://media.tenor.com/WpA3xmGDg9cAAAAd/marisa-touhou.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hazudev&label=Profile%20views&color=0e75b6&style=flat" alt="hazudev" /> </p>
 
@@ -9,5 +10,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hazudev&show_icons=true&locale=en&layout=compact" alt="hazudev" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hazudev&show_icons=true&locale=en" alt="hazudev" /></p>
-
-<p align="center"><img align="center" src="https://media.tenor.com/WpA3xmGDg9cAAAAd/marisa-touhou.gif"></p>
