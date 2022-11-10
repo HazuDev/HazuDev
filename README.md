@@ -1,7 +1,6 @@
-[![MasterHead](https://giffiles.alphacoders.com/769/76916.gif)
 <h1 align="center">🍓 Welcome to my profile 🍓</h1>
 <h3 align="center">I am a high school student who wants to learn programming because I find it fun</h3>
-<img align="right" alt="Touhou is cool" width="400" src="https://giffiles.alphacoders.com/764/76483.gif">
+<img align="right" alt="Touhou is cool" width="150" src="https://giffiles.alphacoders.com/764/76483.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hazudev&label=Profile%20views&color=0e75b6&style=flat" alt="hazudev" /> </p>
 
