@@ -10,4 +10,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hazudev&show_icons=true&locale=en" alt="hazudev" /></p>
 
-<img align="left" alt="Touhou is cool" width="420" src="https://giffiles.alphacoders.com/210/210838.gif">
+<img align="left" alt="Touhou is cool" width="420" src = "https://giffiles.alphacoders.com/210/210838.gif">
